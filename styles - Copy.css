@@ -1,0 +1,21 @@
+
+    
+    button{
+
+        background-color: green;
+        height: 30px;
+        color: white;
+        border: none;
+        border-radius: 3px;
+
+    }
+
+    button:hover{
+        background-color: tomato;
+        border: double;
+    }
+
+
+    banner-img{
+        width: 100%;
+    }
